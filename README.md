@@ -48,19 +48,6 @@ Run the program:
 python metadata_extractor.py
 ```
 
-Example session:
-
-Enter URL: https://example.com
-Fetching metadata... ━━━━━━━━━━━━━━━━━━ 100%
-┌───────────────┬──────────────────────────────┐
-│ Field         │ Value                        │
-├───────────────┼──────────────────────────────┤
-│ Title         │ Example Domain               │
-│ Description   │ This domain is for use in…   │
-│ Keywords      │ example, domain              │
-│ Open Graph    │ title: Example Domain …      │
-│ Twitter Card  │ card: summary …              │
-└───────────────┴──────────────────────────────┘
 
 ### Optional JSON export:
 In program prompt
