@@ -53,9 +53,13 @@ python metadata_extractor.py
 In program prompt
 Save metadata to JSON? (y/n): y
 
+
 ### Error Handling
+
 Invalid URL → program requests a valid URL.
+
 Network or connection issues → displays a friendly error message.
+
 Missing metadata fields → shows N/A instead of crashing.
 
 
