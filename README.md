@@ -79,6 +79,6 @@ You can:
 ---
 
 ## License
-MIT License © 2026 Raj
+MIT License © 2026 Soumik Halder
 
 
